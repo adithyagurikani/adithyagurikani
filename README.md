@@ -91,10 +91,11 @@ superpower  : Automating the boring stuff so I can focus on solving real problem
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyagurikani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+## 📈 GitHub Analytics
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagurikani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=adithyagurikani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adithyagurikani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
