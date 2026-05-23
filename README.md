@@ -136,4 +136,3 @@ superpower  : Automating the boring stuff so I can focus on solving real problem
 <h3 align="center">
 💡 "Turning repetitive tasks into intelligent automation systems."
 </h3>
-```
