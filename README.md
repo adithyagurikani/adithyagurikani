@@ -75,7 +75,7 @@ I am an analytical thinker and developer passionate about building intelligent a
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adithyagurikani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
