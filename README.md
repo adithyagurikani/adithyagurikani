@@ -1,84 +1,111 @@
-# Hi 👋, I'm Adithya G
+```md
+<h1 align="center">Hi 👋, I'm Adithya G</h1>
+<h3 align="center">Data Analytics & Automation Engineer 🚀</h3>
 
-### Data Analytics & Automation Engineer 🚀
-I am an analytical thinker and developer passionate about building intelligent automation workflows, data-driven applications, and uncovering insights from complex datasets.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Automation+Systems;Data+Analytics+%7C+AI+Workflows+%7C+Cloud;Python+Developer+%7C+Automation+Engineer;Turning+Data+Into+Insights+📊" />
+</p>
 
----
-
-### 💻 Current Focus
-- 🛠️ **Building:** Scalable data pipelines and intelligent automation systems.
-- 📊 **Analyzing:** Advanced data visualization and predictive modeling trends.
-- 🤝 **Open for Collaborations:** Open-source automation tools and data science projects.
-
----
-
-### 🛠️ Languages and Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
-      <br />SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-      <br />Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-      <br />NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
-      <br />GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyagurikani&show_icons=true&theme=gotham" alt="Adithya's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagurikani&layout=compact&theme=gotham" alt="Top Languages" height="150" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithyagurikani&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/adithyagurikani?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/adithyagurikani?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+## 🚀 About Me
 
-<p align="left">
+- 🔭 Currently building **scalable automation workflows & data pipelines**
+- 🌱 Exploring **AI automation, predictive analytics, and cloud engineering**
+- 📊 Passionate about **data visualization & intelligent systems**
+- 🤝 Open to collaborations on **Open Source, AI & Automation Projects**
+- ⚡ Fun fact: *I love turning repetitive tasks into one-click automations.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
+</p>
+
+### 📊 Data Science & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+### ☁️ Cloud & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,nodejs" />
+</p>
+
+### 🎨 Frontend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyagurikani&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagurikani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyagurikani&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyagurikani&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Intelligent Automation System
+> Built automation workflows that reduced repetitive operational tasks.
+
+### 🔹 Data Visualization Dashboard
+> Interactive analytics dashboard using Python & visualization libraries.
+
+### 🔹 Predictive Analytics Models
+> Machine learning workflows for forecasting and business insights.
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyagurikani&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
   <a href="mailto:adithyagurikani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/adithya-g-052633302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  💡 <i>"Automating complexity through data-driven engineering."</i>
+</p>
+```
