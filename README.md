@@ -1,7 +1,7 @@
-# Hi 👋, I'm Adithya Gurikani
+# Hi 👋, I'm Adithya G
 
 ### Data Analytics & Automation Engineer 🚀
-I am an analytical thinker and developer passionate about building intelligent automation workflows, data-driven applications, and uncovering insights from complex datasets. 
+I am an analytical thinker and developer passionate about building intelligent automation workflows, data-driven applications, and uncovering insights from complex datasets.
 
 ---
 
@@ -44,7 +44,7 @@ I am an analytical thinker and developer passionate about building intelligent a
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
-      <br />Google Cloud
+      <br />GCP
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
