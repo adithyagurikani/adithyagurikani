@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Adithya G</h1>
 <h3 align="center">Data Analytics & Automation Engineer 🚀</h3>
 
