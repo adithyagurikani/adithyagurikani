@@ -1,127 +1,63 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Adithya+G+👋;CS+Student+%7C+Data+Analyst;Automation+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+</h1>
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adithya%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analytics%20%26%20Automation%20Engineer&descAlignY=51&descAlign=62"/>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&lines=🔧+Building+Intelligent+Automation+Systems;📊+Data+Analytics+%7C+AI+Workflows+%7C+Cloud;🐍+Python+Developer+%7C+Automation+Engineer;⚡+Turning+Repetitive+Tasks+Into+One-Click+Magic;🚀+Scalable+Pipelines+%7C+Predictive+Models" alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adithyagurikani&label=👁️ Profile Views&color=0D1117&style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/adithyagurikani?label=Followers&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/adithyagurikani?affiliations=OWNER&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github" />
-</p>
-
-</div>
+<h3 align="center">Bridging the gap between messy datasets and intelligent automation.</h3>
 
 ---
 
 ## ⚡ About Me
 
 ```yaml
-name      : Adithya G
-role      : Data Analytics & Automation Engineer
-location  : India 🇮🇳
-focus     : Scalable automation workflows & intelligent data pipelines
-exploring : AI automation · Predictive analytics · Cloud engineering
-passion   : Data visualization & intelligent systems
-superpower: Turning repetitive tasks into one-click automations ⚡
-open_to   : Open Source · AI & Automation collaborations
-```
+name        : Adithya Gurikani
+education   : CS Engineering Undergrad @ SJCIT
+current_role: Python & Data Analytics Intern @ Dyashin Technosoft
+focus       : Data pipelines, workflow automations, and actionable analytics
+building    : A PG Management System & custom web scrapers
+superpower  : Automating the boring stuff so I can focus on solving real problems ⚡
+🛠️ Tech Stack
+👨‍💻 Languages
 
----
 
-## 🛠️ Tech Stack
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
 
-<div align="center">
+📊 Data Science & Analytics
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" />
 
-### ☁️ Cloud & Backend
-<img src="https://skillicons.dev/icons?i=gcp,nodejs" />
+☁️ Cloud & Backend
 
-### 🎨 Frontend & Tools
-<img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
 
-</div>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecloud%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
 
----
+🎨 Frontend & Tools
 
-## 📈 GitHub Analytics
 
-<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+🏆 Project,📌 What it actually does,🛠️ Stack
+Law Mate Application,Audited the codebase and overhauled the UI elements for a legal assistance web application.,"React, TypeScript, Git"
+Exam Trend Predictor,Built a data model analyzing past chemistry board papers to successfully predict future question trends.,"Python, Pandas, NumPy"
+Workflow Auto-Engine,"Wrote custom scripts using Distill to automate my LinkedIn posting, job applications, and ticket tracking.","Python, APIs, GCP"
+PG Management App,Currently mapping out the feature architecture and database for a comprehensive Paying Guest management platform.,"SQL, Power BI, Node.js"
+📈 GitHub Analytics
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadithyagurikani%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadithyagurikani%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyagurikani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_radius=12" />
+🏆 GitHub Trophies
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dadithyagurikani%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D15" alt="GitHub Trophies" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagurikani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=12" />
+📊 Contribution Activity
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dadithyagurikani%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Contribution Graph" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyagurikani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff&border_radius=12" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adithyagurikani&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔹 Project | 📌 Description | 🛠️ Stack |
-|---|---|---|
-| **Intelligent Automation System** | Built automation workflows that reduced repetitive operational tasks | Python · Make.com · APIs |
-| **Data Visualization Dashboard** | Interactive analytics dashboard with real-time insights | Python · Pandas · Plotly |
-| **Predictive Analytics Models** | ML workflows for forecasting and business intelligence | Scikit-Learn · NumPy · GCP |
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyagurikani&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true&area=true&area_color=00D4FF" />
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyagurikani@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-g-052633302/)
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *"Automating complexity through data-driven engineering."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+📬 Let's Connect
+<p align="center">
+<a href="mailto:your.email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-profile-url-here"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
+</p>
